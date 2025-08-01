@@ -1,4 +1,4 @@
-# IA_G3_P01 and IA_G3_P02
+# IA_G3_P01 and IA_G3_P02 (2023)
 
 GitHub Repo: https://github.com/diogo22gomes/IA_Projects
 
